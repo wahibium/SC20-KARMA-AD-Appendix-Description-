@@ -18,7 +18,7 @@ Intel MPI 2018.2.199
 
 #SOURCE CODE
 
-Our Source Code is Closed.
+Our Source Code is Closed (currenlty under review for open source licensing).
 
 #MODELS
 - For the first two (RestNet50, VGGA16), we load the from PyTorch model subpackges (torchvision.models) as follows:
