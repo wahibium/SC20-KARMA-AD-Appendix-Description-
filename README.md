@@ -1,4 +1,3 @@
-### SC20-KARMA-AD-Appendix-Description-
 ## SC20 AD/AE for "Scaling Distributed Deep Learning Workloads beyond the Memory Capacity with KARMA"
 
 We use ABCI (https://abci.ai/) HPC to apply an out-of-core solution for distributred DL training
@@ -38,10 +37,10 @@ vgg16 = models.vgg16()
 
 #DATASETS
 - ImageNet:
-Loaded from dataset catalogue on ABCI supercomputer. Also found at: http://www.image-net.org
+http://www.image-net.org
 
 - CIFAR-10:
-Loaded from dataset catalogue on ABCI supercomputer. Also found at: https://www.cs.toronto.edu/~kriz/cifar.html
+https://www.cs.toronto.edu/~kriz/cifar.html
 
 - OpenWebText (Open clone of OpenAI's unreleased WebText dataset scraper used to train Megatron-LM.)
 https://github.com/jcpeterson/openwebtext
