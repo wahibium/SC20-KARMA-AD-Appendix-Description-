@@ -43,6 +43,8 @@ Loaded from dataset catalogue on ABCI supercomputer. Also found at: http://www.i
 - CIFAR-10:
 Loaded from dataset catalogue on ABCI supercomputer. Also found at: https://www.cs.toronto.edu/~kriz/cifar.html
 
+- OpenWebText (Open clone of OpenAI's unreleased WebText dataset scraper used to train Megatron-LM.)
+https://github.com/jcpeterson/openwebtext
 
 #RUNNING
 
